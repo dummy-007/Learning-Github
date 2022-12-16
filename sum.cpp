@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
 
-    cout << "Sum";
+    cout << "Sum is : ";
     return 0;
 }
